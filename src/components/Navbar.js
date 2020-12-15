@@ -14,7 +14,7 @@ function Navbar() {
                     <NavLink to='/about' 
                     activeClassName="text-blue-200 bg-white-600  "
                     className='inline-flex items-center py-3 px-3 my-6 rounded text-red-100 hover:text-red-800 font-bold cursive '>
-                        About
+                        About Me!
                     </NavLink>
                     <NavLink to='/post'
                     activeClassName="text-blue-200 bg-white-600  "
