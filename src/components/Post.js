@@ -22,7 +22,7 @@ useEffect(()=>{
 console.log(postData)
     return (
         
-        <main className="bg-gray-700 min-h-screen p-12">
+        <main className="bg-gray-50 min-h-screen p-12">
             <section className="container mx-auto">
                 <h1 className="text-5xl flex justify-center cursive">Blog Post Page </h1>
                 <h1 className="text-lg text-gray-50 flex justify-center mb-12"> Welcome To The Blog Post Page</h1>
